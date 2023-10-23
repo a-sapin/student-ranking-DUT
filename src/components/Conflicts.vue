@@ -48,6 +48,8 @@ export default {
 };
 </script>
 
+
+<!-- Make sure to leave this as is -->
 <template>
   <v-simple-table height="auto">
     <template v-slot:default>
