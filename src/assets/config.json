@@ -1,0 +1,390 @@
+{
+    "rank": {
+        "header": "Rg"
+    },
+    "id": {
+        "header": "code_nip"
+    },
+    "name": {
+        "header": "Nom"
+    },
+    "average": {
+        "header": "Moy"
+    },
+    "semesters": [
+        {
+            "id": "s1",
+            "name": "Semestre 1",
+            "finalSemester": false,
+            "inputs":[
+                {
+                    "id": "s1g",
+                    "name": "Formation générale",
+                    "apprentice": false
+                }
+            ],
+            "ues": [
+                {
+                    "id": "UE 11",
+                    "header": "UE 11",
+                    "lessons": [
+                        {
+                            "id": "M1101",
+                            "header": "M1101",
+                            "coefficient": 3.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1102",
+                            "header": "M1102",
+                            "coefficient": 3.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1103",
+                            "header": "M1103",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1104-2",
+                            "header": "M1104-2",
+                            "coefficient": 1.75,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1104-1",
+                            "header": "M1104-1",
+                            "coefficient": 1.75,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1105",
+                            "header": "M1105",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1106",
+                            "header": "M1106",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        }
+                    ]
+                },
+                {
+                    "id": "UE 12",
+                    "header": "UE 12",
+                    "lessons": [
+                        {
+                            "id": "M1201",
+                            "header": "M1201",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1202",
+                            "header": "M1202",
+                            "coefficient": 2.0,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1203",
+                            "header": "M1203",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1204",
+                            "header": "M1204",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1205",
+                            "header": "M1205",
+                            "coefficient": 2.0,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1206",
+                            "header": "M1206",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M1207",
+                            "header": "M1207",
+                            "coefficient": 1.0,
+                            "forTemporaryAverage": true
+                        }
+                    ]
+                }
+            ],
+            "extras": []
+        },
+        {
+            "id": "s2",
+            "name": "Semestre 2",
+            "finalSemester": false,
+            "inputs": [
+                {
+                    "id": "s2g",
+                    "name": "Formation générale",
+                    "apprentice": false
+                }
+            ],
+            "ues": [
+                {
+                    "id": "UE 21",
+                    "header": "UE 21 - Approfondissements en Informatique",
+                    "lessons": [
+                        {
+                            "id": "M2101",
+                            "header": "M2101",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2102",
+                            "header": "M2102",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2103-1",
+                            "header": "M2103-1",
+                            "coefficient": 1.75,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2103-2",
+                            "header": "M2103-2",
+                            "coefficient": 1.75,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2104-1",
+                            "header": "M2104-1",
+                            "coefficient": 1.25,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2104-2",
+                            "header": "M2104-2",
+                            "coefficient": 1.25,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2105",
+                            "header": "M2105",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2106",
+                            "header": "M2106",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2107",
+                            "header": "M2107",
+                            "coefficient": 2.0,
+                            "forTemporaryAverage": true
+                        }
+                    ]
+                },
+                {
+                    "id": "UE 22",
+                    "header": "UE 22 - Approfondissements en culture scientifique, sociale et humaine",
+                    "lessons": [
+                        {
+                            "id": "M2201",
+                            "header": "M2201",
+                            "coefficient": 3.0,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2202",
+                            "header": "M2202",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2203",
+                            "header": "M2203",
+                            "coefficient": 3.0,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2204",
+                            "header": "M2204",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2205",
+                            "header": "M2205",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2206",
+                            "header": "M2206",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M2207",
+                            "header": "M2207",
+                            "coefficient": 1.0,
+                            "forTemporaryAverage": true
+                        }
+                    ]
+                }
+            ],
+            "extras": [
+                {
+                    "id": "Sport",
+                    "header": "SPORT",
+                    "amount": 0.2
+                }
+            ]
+        },
+        {
+            "id": "s3",
+            "name": "Semestre 3",
+            "finalSemester": true,
+            "inputs": [
+                {
+                  "id": "s3g",
+                  "name": "Formation générale",
+                  "apprentice": false
+                },
+                {
+                  "id": "s3a",
+                  "name": "Formation par apprentissage",
+                  "apprentice": true
+                }
+              ],
+            "ues": [
+                {
+                    "id": "UE 31",
+                    "header": "UE 31",
+                    "lessons": [
+                        {
+                            "id": "M3101",
+                            "header": "M3101",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3102",
+                            "header": "M3102",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3103",
+                            "header": "M3103",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3104",
+                            "header": "M3104",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3105",
+                            "header": "M3105",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3106C",
+                            "header": "M3106C",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        }
+                    ]
+                },
+                {
+                    "id": "UE 32",
+                    "header": "UE 32",
+                    "lessons": [
+                        {
+                            "id": "M3201",
+                            "header": "M3201",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3202C",
+                            "header": "M3202C",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3203",
+                            "header": "M3203",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3204",
+                            "header": "M3204",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3205",
+                            "header": "M3205",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3206",
+                            "header": "M3206",
+                            "coefficient": 2.5,
+                            "forTemporaryAverage": true
+                        }
+                    ]
+                },
+                {
+                    "id": "UE 33",
+                    "header": "UE 33",
+                    "lessons": [
+                        {
+                            "id": "M3301-1",
+                            "header": "M3301-1",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3301-2",
+                            "header": "M3301-2",
+                            "coefficient": 1.5,
+                            "forTemporaryAverage": true
+                        },
+                        {
+                            "id": "M3302",
+                            "header": "M3302",
+                            "coefficient": 2.0,
+                            "forTemporaryAverage": false
+                        },
+                        {
+                            "id": "M3303",
+                            "header": "M3303",
+                            "coefficient": 1.0,
+                            "forTemporaryAverage": false
+                        }
+                    ]
+                }
+            ],
+            "extras": []
+        }
+    ]
+}
