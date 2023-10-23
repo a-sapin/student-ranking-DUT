@@ -132,7 +132,7 @@ npm run build
 
 - [Emilien Bidet](https://emilienbidet.fr) - lead developer
 - [Arthur Sapin](https://github.com/a-sapin) - project management and reporting
-- [Anisse Dahmani] - supporting developer
+- Anisse Dahmani - supporting developer
 
 ## Special thanks
 
